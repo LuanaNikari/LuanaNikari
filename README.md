@@ -1,19 +1,29 @@
-Ola! Sou a Luana Silva 👋
+<p align="left">
+  <img align="center" src="https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Imagem">
+</p>
+
+<div align="center" >
+  <p><b>Ola! Sou a Luana Silva 👋</b></p>
+</div> 
 
 - 🖥️ Sou acadêmica de Sistemas de Informação pela UNA - Uberlândia/MG
 - 👩🏻‍🎓 Estou estudando atualmente Java, Javascript, PhP, Python e Bancos de Dados
 - 🌐 Visite meu portifólio em website!
 - 😄 Meus pronomes? Ela/Dela
 
+
+
 ---
 
-<div>
+<div align="center">
   <a href="https://github.com/LuanaNikari">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luananikari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"?>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luananikari&layout=compact&langs_count=16&theme=dracula"/>
+    <img rigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luananikari&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div>
+
+---
 
 🗂️ Portifólio
 
@@ -21,32 +31,28 @@ Ola! Sou a Luana Silva 👋
 *
 *
 
-  
-</div>
+---
 
-
-
-
-
-<div>
 📍 Contato
-
 ##
+
+<div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-fesilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanasilvaueg@gmail.com)
 
-
   
 </div>
 
-
 ---
 <div> 
+
+  
 🔥 Skills
 
-🔗 Programming Languages
 ##
+
+🔗 Programming Languages
 <div style="display: inline_block"><br>
 <img align="center" alt=Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
 <img align="center" alt=Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -58,8 +64,6 @@ Ola! Sou a Luana Silva 👋
 ##
 
 🔗 Tools & Frameworks
-
-##
 <div style="display: inline_block"><br>
 <img align="center" alt=Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img align="center" alt=Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
