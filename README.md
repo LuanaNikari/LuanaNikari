@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="center" src="https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Imagem">
+  <img align="center" src="https://github.com/LuanaNikari/LuanaNikari/blob/main/1.png" alt="Imagem">
 </p>
 
 <div align="center" >
