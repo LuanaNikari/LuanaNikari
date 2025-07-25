@@ -23,12 +23,19 @@
 
 </div>
 
-🗂️ **Portifólio**
---
-*
-*
-*
+<div align="center">
 
+🗂️ **Certificações**
+--
+
+|**Curso**|**Plataforma**|**Concluído em**|
+|:-----:|:--------:|:--------:|
+|Modelagem de software|Centro Universitário UNA|2024|
+|Projetos e Processos em TI|Centro Universitário UNA|2025|
+|Fundamentos do Azure para Data Engineering|DIO|2025|
+|Engenheira QA|MateAcademy|2025|
+|Desenvolvedor Front-end|MateAcademy|2025|
+</div>
 
 📍 **Contato**
 --
