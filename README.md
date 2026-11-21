@@ -10,7 +10,7 @@
 --
 
 - 🖥️ Sou acadêmica de Sistemas de Informação pela UNA - Uberlândia/MG
-- 👩🏻‍🎓 Estou estudando atualmente Java, Javascript, PhP, Python e Bancos de Dados
+- 👩🏻‍🎓 Estou estudando atualmente Java, Javascript, Python e Bancos de Dados
 - 🌐 Visite meu portifólio em website!
 
 ##
